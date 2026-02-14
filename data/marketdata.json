@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-14T03:08:30Z",
+  "generated_at_utc": "2026-02-14T04:52:36Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -974,16 +974,45 @@
     {
       "symbol": "^KQ11",
       "name": "KOSDAQ (South Korea)",
-      "price": null,
-      "close_d1": null,
-      "change_pts": null,
-      "change_pct": null,
-      "daily_7d": [],
-      "vol_annual": null,
-      "vol_semiannual": null,
-      "vol_quarterly": null,
-      "vol_monthly": null,
-      "vol_weekly": null
+      "price": 1106.079956,
+      "close_d1": 1125.98999,
+      "change_pts": -19.910034,
+      "change_pct": -0.01768225,
+      "daily_7d": [
+        {
+          "date": "2026-02-05",
+          "close": 1108.410034
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1080.77002
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1127.550049
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1115.199951
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1114.869995
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1125.98999
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1106.079956
+        }
+      ],
+      "vol_annual": 0.26586841,
+      "vol_semiannual": 0.26601588,
+      "vol_quarterly": 0.32007881,
+      "vol_monthly": 0.46134559,
+      "vol_weekly": 0.37452604
     },
     {
       "symbol": "000001.SS",
