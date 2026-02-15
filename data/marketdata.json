@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-15T22:36:44Z",
+  "generated_at_utc": "2026-02-15T23:00:53Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -544,45 +544,16 @@
     {
       "symbol": "^SSMI",
       "name": "SMI - Swiss Market Index",
-      "price": 13600.669922,
-      "close_d1": 13529.919922,
-      "change_pts": 70.75,
-      "change_pct": 0.00522915,
-      "daily_7d": [
-        {
-          "date": "2026-02-05",
-          "close": 13466.040039
-        },
-        {
-          "date": "2026-02-06",
-          "close": 13431.650391
-        },
-        {
-          "date": "2026-02-09",
-          "close": 13517.730469
-        },
-        {
-          "date": "2026-02-10",
-          "close": 13518.219727
-        },
-        {
-          "date": "2026-02-11",
-          "close": 13547.080078
-        },
-        {
-          "date": "2026-02-12",
-          "close": 13529.919922
-        },
-        {
-          "date": "2026-02-13",
-          "close": 13600.669922
-        }
-      ],
-      "vol_annual": 0.13763127,
-      "vol_semiannual": 0.10194649,
-      "vol_quarterly": 0.08581808,
-      "vol_monthly": 0.11655306,
-      "vol_weekly": 0.05198288
+      "price": null,
+      "close_d1": null,
+      "change_pts": null,
+      "change_pct": null,
+      "daily_7d": [],
+      "vol_annual": null,
+      "vol_semiannual": null,
+      "vol_quarterly": null,
+      "vol_monthly": null,
+      "vol_weekly": null
     },
     {
       "symbol": "^SSHI",
@@ -1242,7 +1213,7 @@
           "close": 8917.599609
         }
       ],
-      "vol_annual": 0.12383039,
+      "vol_annual": 0.12380647,
       "vol_semiannual": 0.11145163,
       "vol_quarterly": 0.12178819,
       "vol_monthly": 0.16747538,
