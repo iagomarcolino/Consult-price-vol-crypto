@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-16T17:56:07Z",
+  "generated_at_utc": "2026-02-16T18:54:47Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -224,11 +224,16 @@
     {
       "symbol": "TX60.TS",
       "name": "S&P/TSX 60 Index",
-      "price": null,
+      "price": 1917.150024,
       "close_d1": null,
       "change_pts": null,
       "change_pct": null,
-      "daily_7d": [],
+      "daily_7d": [
+        {
+          "date": "2026-02-13",
+          "close": 1917.150024
+        }
+      ],
       "vol_annual": null,
       "vol_semiannual": null,
       "vol_quarterly": null,
