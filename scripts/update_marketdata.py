@@ -9,96 +9,69 @@ import yfinance as yf
 # ========= CONFIG =========
 SYMBOLS = {
     # =========================
-    # 🇺🇸 NEW YORK (NYSE)
+    # 🪙 CRYPTO — L1 (COMPROVADOS)
     # =========================
-    "^DJI": "Dow Jones Industrial Average (DJIA)",
-    "^NYA": "NYSE Composite Index",
+    "BTC-USD": "Bitcoin (BTC)",
+    "ETH-USD": "Ethereum (ETH)",
+    "BNB-USD": "BNB Chain (BNB)",
+    "SOL-USD": "Solana (SOL)",
+    "AVAX-USD": "Avalanche (AVAX)",
+    "TRX-USD": "Tron (TRX)",
+    "LTC-USD": "Litecoin (LTC)",
 
     # =========================
-    # 🇺🇸 CHICAGO / NASDAQ
+    # ⚡ CRYPTO — L2 (ESCALABILIDADE COM USO REAL)
     # =========================
-    "^IXIC": "Nasdaq Composite Index",
-    "^NDX": "Nasdaq 100 (NDX)",
+    "ARB-USD": "Arbitrum (ARB)",
+    "OP-USD": "Optimism (OP)",
+    "MATIC-USD": "Polygon (MATIC)",
 
     # =========================
-    # 🇨🇦 TORONTO
+    # 🔗 CRYPTO — ORACLE (INFRA CRÍTICA)
     # =========================
-    "^GSPTSE": "S&P/TSX Composite Index",
-    "TX60.TS": "S&P/TSX 60 Index",
+    "LINK-USD": "Chainlink (LINK)",
 
     # =========================
-    # 🇬🇧 LONDON
+    # 💰 CRYPTO — DEFI (FUNCIONAIS)
     # =========================
-    "^FTSE": "FTSE 100",
-    "^FTMC": "FTSE 250",
+    "UNI-USD": "Uniswap (UNI)",
+    "AAVE-USD": "Aave (AAVE)",
+    "MKR-USD": "Maker (MKR)",
+    "LDO-USD": "Lido (LDO)",
+    "CRV-USD": "Curve (CRV)",
 
     # =========================
-    # 🇪🇺 EURONEXT
+    # 🏛️ CRYPTO — RWA (TOKENIZAÇÃO REAL)
     # =========================
-    "^FCHI": "CAC 40 (France)",
-    "^AEX": "AEX (Netherlands)",
-    "^BFX": "BEL 20 (Belgium)",
+    "ONDO-USD": "Ondo Finance (ONDO)",
 
     # =========================
-    # 🇩🇪 FRANKFURT
+    # 🌐 CRYPTO — INTEROPERABILIDADE
     # =========================
-    "^GDAXI": "DAX 40 (Germany)",
-    "^MDAXI": "MDAX (Germany Mid Caps)",
+    "ATOM-USD": "Cosmos (ATOM)",
+    "DOT-USD": "Polkadot (DOT)",
+    "QNT-USD": "Quant (QNT)",
 
     # =========================
-    # 🇨🇭 ZURICH
+    # 💾 CRYPTO — STORAGE (USO REAL)
     # =========================
-    "^SSMI": "SMI - Swiss Market Index",
-    "^SSHI": "SPI - Swiss Performance Index",
+    "FIL-USD": "Filecoin (FIL)",
+    "AR-USD": "Arweave (AR)",
 
     # =========================
-    # 🇮🇳 INDIA
+    # 🤖 CRYPTO — AI (COM PRODUTO REAL)
     # =========================
-    "^BSESN": "SENSEX (India)",
-    "^NSEI": "NIFTY 50 (India)",
+    "RNDR-USD": "Render (RNDR)",
+    "TAO-USD": "Bittensor (TAO)",
 
     # =========================
-    # 🇧🇷 BRAZIL - B3
+    # 🪙 CRYPTO — STABLECOINS (INFRA MONETÁRIA)
     # =========================
-    "^BVSP": "Ibovespa (IBOV)",
-    "^IBX50": "IBrX 50",
-    "BRAX11.SA": "iShares IBrX-Índice Brasil (IBrX-100) ETF (proxy do IBrX 100)",
-
-    # =========================
-    # 🇯🇵 JAPAN - TOKYO
-    # =========================
-    "^N225": "Nikkei 225",
-    "1306.T": "NEXT FUNDS TOPIX ETF (proxy do TOPIX)",
-
-    # =========================
-    # 🇰🇷 SOUTH KOREA - SEOUL
-    # =========================
-    "^KS11": "KOSPI (South Korea)",
-    "^KQ11": "KOSDAQ (South Korea)",
-
-    # =========================
-    # 🇨🇳 CHINA - SHANGHAI / SHENZHEN
-    # =========================
-    "000001.SS": "SSE Composite Index (Shanghai)",
-    "000300.SS": "CSI 300 (Shanghai + Shenzhen)",
-    "399001.SZ": "SZSE Component Index (Shenzhen)",
-    "399006.SZ": "ChiNext Index (Shenzhen)",
-
-    # =========================
-    # 🇭🇰 HONG KONG
-    # =========================
-    "^HSI": "Hang Seng Index (HK50)",
-
-    # =========================
-    # 🇦🇺 AUSTRALIA - SYDNEY
-    # =========================
-    "^AXJO": "S&P/ASX 200",
-
-    # =========================
-    # 🇸🇬 SINGAPORE
-    # =========================
-    "^STI": "Straits Times Index (Singapore)",
+    "USDT-USD": "Tether (USDT)",
+    "USDC-USD": "USD Coin (USDC)",
+    "DAI-USD": "Dai (DAI)",
 }
+
 
 LOOKBACK = "400d"
 INTERVAL = "1d"
