@@ -9,22 +9,27 @@ import yfinance as yf
 # ========= CONFIG =========
 SYMBOLS = {
     # =========================
-    # 🪙 CRYPTO — L1 (COMPROVADOS)
     # =========================
-    "BTC-USD": "Bitcoin (BTC)",
-    "ETH-USD": "Ethereum (ETH)",
-    "BNB-USD": "BNB Chain (BNB)",
-    "SOL-USD": "Solana (SOL)",
-    "AVAX-USD": "Avalanche (AVAX)",
-    "TRX-USD": "Tron (TRX)",
-    "LTC-USD": "Litecoin (LTC)",
+    # 🟦 L1 - INFRA BASE
+    # =========================
+    "BTC-USD": "Bitcoin",
+    "ETH-USD": "Ethereum",
+    "BNB-USD": "BNB",
+    "SOL-USD": "Solana",
+    "AVAX-USD": "Avalanche",
+    "TRX-USD": "Tron",
+    "ADA-USD": "Cardano",
+    "DOT-USD": "Polkadot",
+
 
     # =========================
     # ⚡ CRYPTO — L2 (ESCALABILIDADE COM USO REAL)
     # =========================
-    "ARB-USD": "Arbitrum (ARB)",
-    "OP-USD": "Optimism (OP)",
-    "MATIC-USD": "Polygon (MATIC)",
+    "ARB-USD": "Arbitrum",
+    "OP-USD": "Optimism",
+    "MATIC-USD": "Polygon",     # Yahoo ainda usa MATIC
+    "STRK-USD": "Starknet",
+    "ZK-USD": "zkSync",
 
     # =========================
     # 🔗 CRYPTO — ORACLE (INFRA CRÍTICA)
@@ -37,13 +42,15 @@ SYMBOLS = {
     "UNI-USD": "Uniswap (UNI)",
     "AAVE-USD": "Aave (AAVE)",
     "MKR-USD": "Maker (MKR)",
-    "LDO-USD": "Lido (LDO)",
-    "CRV-USD": "Curve (CRV)",
+    "LDO-USD": "Lido",
+    "PENDLE-USD": "Pendle",
 
     # =========================
     # 🏛️ CRYPTO — RWA (TOKENIZAÇÃO REAL)
     # =========================
-    "ONDO-USD": "Ondo Finance (ONDO)",
+    "ONDO-USD": "Ondo",
+    "CFG-USD": "Centrifuge",
+    "OM-USD": "Mantra",
 
     # =========================
     # 🌐 CRYPTO — INTEROPERABILIDADE
@@ -61,8 +68,9 @@ SYMBOLS = {
     # =========================
     # 🤖 CRYPTO — AI (COM PRODUTO REAL)
     # =========================
-    "RNDR-USD": "Render (RNDR)",
-    "TAO-USD": "Bittensor (TAO)",
+    "RNDR-USD": "Render",
+    "FET-USD": "Fetch.ai",
+    "TAO-USD": "Bittensor",
 
     # =========================
     # 🪙 CRYPTO — STABLECOINS (INFRA MONETÁRIA)
@@ -70,6 +78,14 @@ SYMBOLS = {
     "USDT-USD": "Tether (USDT)",
     "USDC-USD": "USD Coin (USDC)",
     "DAI-USD": "Dai (DAI)",
+
+    # =========================
+    # 🐶 MEME
+    # =========================
+    "DOGE-USD": "Dogecoin",
+    "SHIB-USD": "Shiba Inu",
+    "PEPE-USD": "Pepe",
+
 }
 
 
