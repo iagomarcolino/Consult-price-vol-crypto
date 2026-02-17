@@ -7,86 +7,95 @@ import pandas as pd
 import yfinance as yf
 
 # ========= CONFIG =========
+# ========= CONFIG =========
 SYMBOLS = {
+
     # =========================
-    # =========================
-    # 🟦 L1 - INFRA BASE
+    # 🟦 L1 - INFRA BASE (TOP MARKET CAP)
     # =========================
     "BTC-USD": "Bitcoin",
     "ETH-USD": "Ethereum",
     "BNB-USD": "BNB",
     "SOL-USD": "Solana",
+    "XRP-USD": "XRP",
+    "TON-USD": "Toncoin",
+    "ADA-USD": "Cardano",
     "AVAX-USD": "Avalanche",
     "TRX-USD": "Tron",
-    "ADA-USD": "Cardano",
     "DOT-USD": "Polkadot",
-
+    "NEAR-USD": "NEAR Protocol",
+    "APT-USD": "Aptos",
+    "SUI-USD": "Sui",
 
     # =========================
-    # ⚡ CRYPTO — L2 (ESCALABILIDADE COM USO REAL)
+    # ⚡ L2 - ESCALABILIDADE
     # =========================
     "ARB-USD": "Arbitrum",
     "OP-USD": "Optimism",
-    "MATIC-USD": "Polygon",     # Yahoo ainda usa MATIC
+    "MATIC-USD": "Polygon",
     "STRK-USD": "Starknet",
     "ZK-USD": "zkSync",
+    "IMX-USD": "Immutable",
 
     # =========================
-    # 🔗 CRYPTO — ORACLE (INFRA CRÍTICA)
+    # 🔗 ORACLE / INFRA CRÍTICA
     # =========================
-    "LINK-USD": "Chainlink (LINK)",
+    "LINK-USD": "Chainlink",
+    "QNT-USD": "Quant",
 
     # =========================
-    # 💰 CRYPTO — DEFI (FUNCIONAIS)
+    # 💰 DEFI (USO REAL)
     # =========================
-    "UNI-USD": "Uniswap (UNI)",
-    "AAVE-USD": "Aave (AAVE)",
-    "MKR-USD": "Maker (MKR)",
+    "UNI-USD": "Uniswap",
+    "AAVE-USD": "Aave",
+    "MKR-USD": "Maker",
     "LDO-USD": "Lido",
     "PENDLE-USD": "Pendle",
+    "INJ-USD": "Injective",
 
     # =========================
-    # 🏛️ CRYPTO — RWA (TOKENIZAÇÃO REAL)
+    # 🏛️ RWA (TOKENIZAÇÃO)
     # =========================
     "ONDO-USD": "Ondo",
     "CFG-USD": "Centrifuge",
     "OM-USD": "Mantra",
 
     # =========================
-    # 🌐 CRYPTO — INTEROPERABILIDADE
+    # 🌐 INTEROPERABILIDADE
     # =========================
-    "ATOM-USD": "Cosmos (ATOM)",
-    "DOT-USD": "Polkadot (DOT)",
-    "QNT-USD": "Quant (QNT)",
+    "ATOM-USD": "Cosmos",
 
     # =========================
-    # 💾 CRYPTO — STORAGE (USO REAL)
+    # 💾 STORAGE
     # =========================
-    "FIL-USD": "Filecoin (FIL)",
-    "AR-USD": "Arweave (AR)",
+    "FIL-USD": "Filecoin",
+    "AR-USD": "Arweave",
 
     # =========================
-    # 🤖 CRYPTO — AI (COM PRODUTO REAL)
+    # 🤖 AI + CRYPTO
     # =========================
     "RNDR-USD": "Render",
     "FET-USD": "Fetch.ai",
     "TAO-USD": "Bittensor",
+    "AKT-USD": "Akash Network",
 
     # =========================
-    # 🪙 CRYPTO — STABLECOINS (INFRA MONETÁRIA)
+    # 🪙 STABLECOINS
     # =========================
-    "USDT-USD": "Tether (USDT)",
-    "USDC-USD": "USD Coin (USDC)",
-    "DAI-USD": "Dai (DAI)",
+    "USDT-USD": "Tether",
+    "USDC-USD": "USD Coin",
+    "DAI-USD": "Dai",
 
     # =========================
-    # 🐶 MEME
+    # 🐶 MEME (MAIORES)
     # =========================
     "DOGE-USD": "Dogecoin",
     "SHIB-USD": "Shiba Inu",
     "PEPE-USD": "Pepe",
+    "BONK-USD": "Bonk",
 
 }
+
 
 
 LOOKBACK = "400d"
