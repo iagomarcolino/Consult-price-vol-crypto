@@ -68,7 +68,7 @@ SYMBOLS = {
     # =========================
     # 🤖 AI + Crypto
     # =========================
-    "RNDR-USD": "Render",
+    "RENDER-USD": "Render (RENDER)",
     "FET-USD": "Fetch.ai",
     "TAO22974-USD": "Bittensor",
 
