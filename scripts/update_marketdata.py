@@ -9,92 +9,77 @@ import yfinance as yf
 # ========= CONFIG =========
 # ========= CONFIG =========
 SYMBOLS = {
-
     # =========================
-    # 🟦 L1 - INFRA BASE (TOP MARKET CAP)
+    # 🟦 L1 - Base
     # =========================
     "BTC-USD": "Bitcoin",
     "ETH-USD": "Ethereum",
-    "BNB-USD": "BNB",
+    "BNB-USD": "BNB Chain",
     "SOL-USD": "Solana",
-    "XRP-USD": "XRP",
-    "TON-USD": "Toncoin",
-    "ADA-USD": "Cardano",
     "AVAX-USD": "Avalanche",
     "TRX-USD": "Tron",
+    "ADA-USD": "Cardano",
     "DOT-USD": "Polkadot",
-    "NEAR-USD": "NEAR Protocol",
-    "APT-USD": "Aptos",
-    "SUI-USD": "Sui",
 
     # =========================
-    # ⚡ L2 - ESCALABILIDADE
+    # ⚡ L2 - Escalabilidade
     # =========================
-    "ARB-USD": "Arbitrum",
+    "ARB11841-USD": "Arbitrum",
     "OP-USD": "Optimism",
-    "MATIC-USD": "Polygon",
+    "POL28321-USD": "Polygon",
     "STRK-USD": "Starknet",
-    "ZK-USD": "zkSync",
-    "IMX-USD": "Immutable",
+    "ZK24091-USD": "zkSync",
 
     # =========================
-    # 🔗 ORACLE / INFRA CRÍTICA
+    # 🔗 Oracles
     # =========================
     "LINK-USD": "Chainlink",
-    "QNT-USD": "Quant",
 
     # =========================
-    # 💰 DEFI (USO REAL)
-    # =========================
-    "UNI-USD": "Uniswap",
-    "AAVE-USD": "Aave",
-    "MKR-USD": "Maker",
-    "LDO-USD": "Lido",
-    "PENDLE-USD": "Pendle",
-    "INJ-USD": "Injective",
-
-    # =========================
-    # 🏛️ RWA (TOKENIZAÇÃO)
-    # =========================
-    "ONDO-USD": "Ondo",
-    "CFG-USD": "Centrifuge",
-    "OM-USD": "Mantra",
-
-    # =========================
-    # 🌐 INTEROPERABILIDADE
-    # =========================
-    "ATOM-USD": "Cosmos",
-
-    # =========================
-    # 💾 STORAGE
-    # =========================
-    "FIL-USD": "Filecoin",
-    "AR-USD": "Arweave",
-
-    # =========================
-    # 🤖 AI + CRYPTO
-    # =========================
-    "RNDR-USD": "Render",
-    "FET-USD": "Fetch.ai",
-    "TAO-USD": "Bittensor",
-    "AKT-USD": "Akash Network",
-
-    # =========================
-    # 🪙 STABLECOINS
+    # 🪙 Stablecoins
     # =========================
     "USDT-USD": "Tether",
     "USDC-USD": "USD Coin",
     "DAI-USD": "Dai",
 
     # =========================
-    # 🐶 MEME (MAIORES)
+    # 💰 DeFi
+    # =========================
+    "AAVE-USD": "Aave",
+    "UNI7083-USD": "Uniswap",
+    "MKR-USD": "Maker",
+    "LDO-USD": "Lido",
+    "PENDLE-USD": "Pendle",
+
+    # =========================
+    # 🏛️ RWA
+    # =========================
+    "ONDO-USD": "Ondo",
+    "CFG-USD": "Centrifuge",
+    "OM-USD": "Mantra",
+
+    # =========================
+    # 🌐 Infra & Storage
+    # =========================
+    "ATOM-USD": "Cosmos",
+    "FIL-USD": "Filecoin",
+    "AR-USD": "Arweave",
+
+    # =========================
+    # 🤖 AI + Crypto
+    # =========================
+    "RNDR-USD": "Render",
+    "FET-USD": "Fetch.ai",
+    "TAO22974-USD": "Bittensor",
+
+    # =========================
+    # 🐶 Meme
     # =========================
     "DOGE-USD": "Dogecoin",
     "SHIB-USD": "Shiba Inu",
-    "PEPE-USD": "Pepe",
-    "BONK-USD": "Bonk",
-
+    "PEPE24478-USD": "Pepe",
 }
+
 
 
 
