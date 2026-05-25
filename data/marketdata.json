@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-25T06:14:27Z",
+  "generated_at_utc": "2026-05-25T10:50:28Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -9,15 +9,11 @@
     {
       "symbol": "BTC-USD",
       "name": "Bitcoin",
-      "price": 77278.703125,
-      "close_d1": 76673.367188,
-      "change_pts": 605.335938,
-      "change_pct": 0.007895,
+      "price": 77455.703125,
+      "close_d1": 76981.125,
+      "change_pts": 474.578125,
+      "change_pct": 0.00616486,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 76954.171875
-        },
         {
           "date": "2026-05-19",
           "close": 76750.90625
@@ -39,28 +35,28 @@
           "close": 76673.367188
         },
         {
+          "date": "2026-05-24",
+          "close": 76981.125
+        },
+        {
           "date": "2026-05-25",
-          "close": 77278.703125
+          "close": 77455.703125
         }
       ],
-      "vol_annual": 0.35048444,
-      "vol_semiannual": 0.44711012,
-      "vol_quarterly": 0.29120993,
-      "vol_monthly": 0.22796066,
-      "vol_weekly": 0.26310987
+      "vol_annual": 0.35003797,
+      "vol_semiannual": 0.4468801,
+      "vol_quarterly": 0.27821381,
+      "vol_monthly": 0.21939266,
+      "vol_weekly": 0.25301806
     },
     {
       "symbol": "ETH-USD",
       "name": "Ethereum",
-      "price": 2101.860107,
-      "close_d1": 2115.951416,
-      "change_pts": -14.091309,
-      "change_pct": -0.00665956,
+      "price": 2114.300049,
+      "close_d1": 2097.993896,
+      "change_pts": 16.306152,
+      "change_pct": 0.00777226,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 2128.516113
-        },
         {
           "date": "2026-05-19",
           "close": 2109.963867
@@ -82,28 +78,28 @@
           "close": 2115.951416
         },
         {
+          "date": "2026-05-24",
+          "close": 2097.993896
+        },
+        {
           "date": "2026-05-25",
-          "close": 2101.860107
+          "close": 2114.300049
         }
       ],
-      "vol_annual": 0.57898519,
-      "vol_semiannual": 0.5815615,
-      "vol_quarterly": 0.38456287,
-      "vol_monthly": 0.25972263,
-      "vol_weekly": 0.32979147
+      "vol_annual": 0.57830111,
+      "vol_semiannual": 0.58064533,
+      "vol_quarterly": 0.37313446,
+      "vol_monthly": 0.25801275,
+      "vol_weekly": 0.33162022
     },
     {
       "symbol": "BNB-USD",
       "name": "BNB Chain",
-      "price": 659.710022,
-      "close_d1": 655.709656,
-      "change_pts": 4.000366,
-      "change_pct": 0.00610082,
+      "price": 660.969971,
+      "close_d1": 656.098267,
+      "change_pts": 4.871704,
+      "change_pct": 0.00742527,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 643.056213
-        },
         {
           "date": "2026-05-19",
           "close": 639.450012
@@ -125,28 +121,28 @@
           "close": 655.709656
         },
         {
+          "date": "2026-05-24",
+          "close": 656.098267
+        },
+        {
           "date": "2026-05-25",
-          "close": 659.710022
+          "close": 660.969971
         }
       ],
-      "vol_annual": 0.41953106,
-      "vol_semiannual": 0.410085,
-      "vol_quarterly": 0.25461397,
-      "vol_monthly": 0.21603059,
-      "vol_weekly": 0.17051907
+      "vol_annual": 0.41901667,
+      "vol_semiannual": 0.4100078,
+      "vol_quarterly": 0.25208888,
+      "vol_monthly": 0.21565073,
+      "vol_weekly": 0.1575054
     },
     {
       "symbol": "SOL-USD",
       "name": "Solana",
-      "price": 85.769997,
-      "close_d1": 85.658485,
-      "change_pts": 0.111511,
-      "change_pct": 0.00130181,
+      "price": 85.980003,
+      "close_d1": 85.249695,
+      "change_pts": 0.730309,
+      "change_pct": 0.0085667,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 85.296898
-        },
         {
           "date": "2026-05-19",
           "close": 84.208603
@@ -168,28 +164,28 @@
           "close": 85.658485
         },
         {
+          "date": "2026-05-24",
+          "close": 85.249695
+        },
+        {
           "date": "2026-05-25",
-          "close": 85.769997
+          "close": 85.980003
         }
       ],
-      "vol_annual": 0.59469281,
-      "vol_semiannual": 0.58608373,
-      "vol_quarterly": 0.41203993,
-      "vol_monthly": 0.38083535,
-      "vol_weekly": 0.34789601
+      "vol_annual": 0.59399908,
+      "vol_semiannual": 0.58467585,
+      "vol_quarterly": 0.39426495,
+      "vol_monthly": 0.38229565,
+      "vol_weekly": 0.31933244
     },
     {
       "symbol": "AVAX-USD",
       "name": "Avalanche",
-      "price": 9.28,
-      "close_d1": 9.384603,
-      "change_pts": -0.104603,
-      "change_pct": -0.01114622,
+      "price": 9.4,
+      "close_d1": 9.207113,
+      "change_pts": 0.192886,
+      "change_pct": 0.02094971,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 9.233906
-        },
         {
           "date": "2026-05-19",
           "close": 9.098962
@@ -211,28 +207,28 @@
           "close": 9.384603
         },
         {
+          "date": "2026-05-24",
+          "close": 9.207113
+        },
+        {
           "date": "2026-05-25",
-          "close": 9.28
+          "close": 9.4
         }
       ],
-      "vol_annual": 0.67767494,
-      "vol_semiannual": 0.55425664,
-      "vol_quarterly": 0.41746166,
-      "vol_monthly": 0.35452077,
-      "vol_weekly": 0.38879927
+      "vol_annual": 0.67716035,
+      "vol_semiannual": 0.55495795,
+      "vol_quarterly": 0.40468893,
+      "vol_monthly": 0.36456205,
+      "vol_weekly": 0.41339289
     },
     {
       "symbol": "TRX-USD",
       "name": "Tron",
-      "price": 0.366409,
-      "close_d1": 0.362472,
-      "change_pts": 0.003937,
-      "change_pct": 0.01086278,
+      "price": 0.366214,
+      "close_d1": 0.365106,
+      "change_pts": 0.001108,
+      "change_pct": 0.00303357,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.35543
-        },
         {
           "date": "2026-05-19",
           "close": 0.355939
@@ -254,28 +250,28 @@
           "close": 0.362472
         },
         {
+          "date": "2026-05-24",
+          "close": 0.365106
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.366409
+          "close": 0.366214
         }
       ],
-      "vol_annual": 0.23936322,
-      "vol_semiannual": 0.19617509,
-      "vol_quarterly": 0.13785633,
-      "vol_monthly": 0.10010636,
-      "vol_weekly": 0.1546176
+      "vol_annual": 0.23899202,
+      "vol_semiannual": 0.19378173,
+      "vol_quarterly": 0.13521487,
+      "vol_monthly": 0.09654978,
+      "vol_weekly": 0.14678987
     },
     {
       "symbol": "ADA-USD",
       "name": "Cardano",
-      "price": 0.2429,
-      "close_d1": 0.245876,
-      "change_pts": -0.002976,
-      "change_pct": -0.01210366,
+      "price": 0.2457,
+      "close_d1": 0.242129,
+      "change_pts": 0.003571,
+      "change_pct": 0.01474835,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.251354
-        },
         {
           "date": "2026-05-19",
           "close": 0.248224
@@ -297,28 +293,28 @@
           "close": 0.245876
         },
         {
+          "date": "2026-05-24",
+          "close": 0.242129
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.2429
+          "close": 0.2457
         }
       ],
-      "vol_annual": 0.63865428,
-      "vol_semiannual": 0.5879696,
-      "vol_quarterly": 0.4270667,
-      "vol_monthly": 0.38693766,
-      "vol_weekly": 0.28628004
+      "vol_annual": 0.63803077,
+      "vol_semiannual": 0.58840851,
+      "vol_quarterly": 0.41941973,
+      "vol_monthly": 0.39208791,
+      "vol_weekly": 0.32255046
     },
     {
       "symbol": "DOT-USD",
       "name": "Polkadot",
-      "price": 1.261,
-      "close_d1": 1.291695,
-      "change_pts": -0.030695,
-      "change_pct": -0.02376332,
+      "price": 1.269,
+      "close_d1": 1.24464,
+      "change_pts": 0.02436,
+      "change_pct": 0.01957197,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 1.249747
-        },
         {
           "date": "2026-05-19",
           "close": 1.224282
@@ -340,28 +336,28 @@
           "close": 1.291695
         },
         {
+          "date": "2026-05-24",
+          "close": 1.24464
+        },
+        {
           "date": "2026-05-25",
-          "close": 1.261
+          "close": 1.269
         }
       ],
-      "vol_annual": 0.71314371,
-      "vol_semiannual": 0.70817083,
-      "vol_quarterly": 0.44934324,
-      "vol_monthly": 0.41849888,
-      "vol_weekly": 0.43942711
+      "vol_annual": 0.71278784,
+      "vol_semiannual": 0.70959657,
+      "vol_quarterly": 0.45447744,
+      "vol_monthly": 0.43308122,
+      "vol_weekly": 0.50228264
     },
     {
       "symbol": "ARB11841-USD",
       "name": "Arbitrum",
-      "price": 0.1072,
-      "close_d1": 0.109466,
-      "change_pts": -0.002266,
-      "change_pct": -0.02070053,
+      "price": 0.1077,
+      "close_d1": 0.105561,
+      "change_pts": 0.002139,
+      "change_pct": 0.02026311,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.117328
-        },
         {
           "date": "2026-05-19",
           "close": 0.113481
@@ -383,28 +379,28 @@
           "close": 0.109466
         },
         {
+          "date": "2026-05-24",
+          "close": 0.105561
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.1072
+          "close": 0.1077
         }
       ],
-      "vol_annual": 0.83357536,
-      "vol_semiannual": 0.64761629,
-      "vol_quarterly": 0.59016435,
-      "vol_monthly": 0.62586176,
-      "vol_weekly": 0.41162016
+      "vol_annual": 0.83302737,
+      "vol_semiannual": 0.64374297,
+      "vol_quarterly": 0.58581544,
+      "vol_monthly": 0.63877842,
+      "vol_weekly": 0.47622258
     },
     {
       "symbol": "OP-USD",
       "name": "Optimism",
-      "price": 0.127,
-      "close_d1": 0.130188,
-      "change_pts": -0.003188,
-      "change_pct": -0.02448766,
+      "price": 0.129,
+      "close_d1": 0.125416,
+      "change_pts": 0.003584,
+      "change_pct": 0.02857688,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.129304
-        },
         {
           "date": "2026-05-19",
           "close": 0.125914
@@ -426,28 +422,28 @@
           "close": 0.130188
         },
         {
+          "date": "2026-05-24",
+          "close": 0.125416
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.127
+          "close": 0.129
         }
       ],
-      "vol_annual": 0.86428581,
-      "vol_semiannual": 0.7525393,
-      "vol_quarterly": 0.67581025,
-      "vol_monthly": 0.82795511,
-      "vol_weekly": 0.52042941
+      "vol_annual": 0.86383186,
+      "vol_semiannual": 0.75493459,
+      "vol_quarterly": 0.67996377,
+      "vol_monthly": 0.83928853,
+      "vol_weekly": 0.58114008
     },
     {
       "symbol": "POL28321-USD",
       "name": "Polygon",
-      "price": 0.0913,
-      "close_d1": 0.091189,
-      "change_pts": 0.000111,
-      "change_pct": 0.00121732,
+      "price": 0.0924,
+      "close_d1": 0.090301,
+      "change_pts": 0.002099,
+      "change_pct": 0.02324448,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.090833
-        },
         {
           "date": "2026-05-19",
           "close": 0.089273
@@ -469,28 +465,28 @@
           "close": 0.091189
         },
         {
+          "date": "2026-05-24",
+          "close": 0.090301
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.0913
+          "close": 0.0924
         }
       ],
-      "vol_annual": 0.64099007,
-      "vol_semiannual": 0.5033899,
-      "vol_quarterly": 0.38620153,
-      "vol_monthly": 0.32566007,
-      "vol_weekly": 0.18709585
+      "vol_annual": 0.64051685,
+      "vol_semiannual": 0.5046153,
+      "vol_quarterly": 0.37840815,
+      "vol_monthly": 0.32784034,
+      "vol_weekly": 0.23499136
     },
     {
       "symbol": "STRK-USD",
       "name": "Starknet",
-      "price": 0.040355,
-      "close_d1": 0.040962,
-      "change_pts": -0.000607,
-      "change_pct": -0.01481704,
+      "price": 0.041146,
+      "close_d1": 0.039786,
+      "change_pts": 0.00136,
+      "change_pct": 0.03418539,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.040463
-        },
         {
           "date": "2026-05-19",
           "close": 0.039849
@@ -512,28 +508,28 @@
           "close": 0.040962
         },
         {
+          "date": "2026-05-24",
+          "close": 0.039786
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.040355
+          "close": 0.041146
         }
       ],
-      "vol_annual": 4.47922315,
-      "vol_semiannual": 2.84267268,
-      "vol_quarterly": 0.84020211,
-      "vol_monthly": 1.02748251,
-      "vol_weekly": 1.04101939
+      "vol_annual": 4.47376503,
+      "vol_semiannual": 2.84314512,
+      "vol_quarterly": 0.84348025,
+      "vol_monthly": 1.03565957,
+      "vol_weekly": 0.90813183
     },
     {
       "symbol": "ZK24091-USD",
       "name": "zkSync",
-      "price": 0.01471,
-      "close_d1": 0.01507,
-      "change_pts": -0.00036,
-      "change_pct": -0.02388852,
+      "price": 0.01494,
+      "close_d1": 0.014608,
+      "change_pts": 0.000332,
+      "change_pct": 0.02272725,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.015217
-        },
         {
           "date": "2026-05-19",
           "close": 0.014799
@@ -555,28 +551,28 @@
           "close": 0.01507
         },
         {
+          "date": "2026-05-24",
+          "close": 0.014608
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.01471
+          "close": 0.01494
         }
       ],
-      "vol_annual": 1.03253361,
-      "vol_semiannual": 0.8254239,
-      "vol_quarterly": 0.65784199,
-      "vol_monthly": 0.62936345,
-      "vol_weekly": 0.68208443
+      "vol_annual": 1.03154176,
+      "vol_semiannual": 0.82581585,
+      "vol_quarterly": 0.65486234,
+      "vol_monthly": 0.63970953,
+      "vol_weekly": 0.66645291
     },
     {
       "symbol": "LINK-USD",
       "name": "Chainlink",
-      "price": 9.501,
-      "close_d1": 9.558396,
-      "change_pts": -0.057396,
-      "change_pct": -0.00600477,
+      "price": 9.566,
+      "close_d1": 9.429,
+      "change_pts": 0.137,
+      "change_pct": 0.01452965,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 9.592829
-        },
         {
           "date": "2026-05-19",
           "close": 9.449772
@@ -598,28 +594,28 @@
           "close": 9.558396
         },
         {
+          "date": "2026-05-24",
+          "close": 9.429
+        },
+        {
           "date": "2026-05-25",
-          "close": 9.501
+          "close": 9.566
         }
       ],
-      "vol_annual": 0.65648812,
-      "vol_semiannual": 0.55950971,
-      "vol_quarterly": 0.41160058,
-      "vol_monthly": 0.40992108,
-      "vol_weekly": 0.34480536
+      "vol_annual": 0.65584107,
+      "vol_semiannual": 0.55838016,
+      "vol_quarterly": 0.40282806,
+      "vol_monthly": 0.4073448,
+      "vol_weekly": 0.3475975
     },
     {
       "symbol": "USDT-USD",
       "name": "Tether",
-      "price": 0.99875,
-      "close_d1": 0.998834,
-      "change_pts": -8.4e-05,
-      "change_pct": -8.414e-05,
+      "price": 0.99893,
+      "close_d1": 0.998747,
+      "change_pts": 0.000183,
+      "change_pct": 0.00018322,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.999321
-        },
         {
           "date": "2026-05-19",
           "close": 0.999044
@@ -641,28 +637,28 @@
           "close": 0.998834
         },
         {
+          "date": "2026-05-24",
+          "close": 0.998747
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.99875
+          "close": 0.99893
         }
       ],
-      "vol_annual": 0.00428326,
-      "vol_semiannual": 0.00364281,
-      "vol_quarterly": 0.00296555,
-      "vol_monthly": 0.0022855,
-      "vol_weekly": 0.00166511
+      "vol_annual": 0.00428048,
+      "vol_semiannual": 0.00363657,
+      "vol_quarterly": 0.00299101,
+      "vol_monthly": 0.00242008,
+      "vol_weekly": 0.00241223
     },
     {
       "symbol": "USDC-USD",
       "name": "USD Coin",
-      "price": 0.999609,
-      "close_d1": 0.999696,
-      "change_pts": -8.7e-05,
-      "change_pct": -8.657e-05,
+      "price": 0.999705,
+      "close_d1": 0.999655,
+      "change_pts": 5e-05,
+      "change_pct": 5.009e-05,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.999824
-        },
         {
           "date": "2026-05-19",
           "close": 0.99972
@@ -684,28 +680,28 @@
           "close": 0.999696
         },
         {
+          "date": "2026-05-24",
+          "close": 0.999655
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.999609
+          "close": 0.999705
         }
       ],
-      "vol_annual": 0.00244344,
-      "vol_semiannual": 0.00203797,
-      "vol_quarterly": 0.00198199,
-      "vol_monthly": 0.00105708,
-      "vol_weekly": 0.0009849
+      "vol_annual": 0.00243996,
+      "vol_semiannual": 0.00203413,
+      "vol_quarterly": 0.0019584,
+      "vol_monthly": 0.00104048,
+      "vol_weekly": 0.00073335
     },
     {
       "symbol": "DAI-USD",
       "name": "Dai",
-      "price": 0.99952,
-      "close_d1": 0.999386,
-      "change_pts": 0.000134,
-      "change_pct": 0.00013407,
+      "price": 0.99958,
+      "close_d1": 0.999382,
+      "change_pts": 0.000198,
+      "change_pct": 0.00019789,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.99978
-        },
         {
           "date": "2026-05-19",
           "close": 0.999543
@@ -727,28 +723,28 @@
           "close": 0.999386
         },
         {
+          "date": "2026-05-24",
+          "close": 0.999382
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.99952
+          "close": 0.99958
         }
       ],
-      "vol_annual": 0.00254171,
-      "vol_semiannual": 0.00225097,
-      "vol_quarterly": 0.00205039,
-      "vol_monthly": 0.00181654,
-      "vol_weekly": 0.00238815
+      "vol_annual": 0.00254117,
+      "vol_semiannual": 0.00225964,
+      "vol_quarterly": 0.0020624,
+      "vol_monthly": 0.00180805,
+      "vol_weekly": 0.00265015
     },
     {
       "symbol": "AAVE-USD",
       "name": "Aave",
-      "price": 86.339996,
-      "close_d1": 86.571365,
-      "change_pts": -0.231369,
-      "change_pct": -0.00267258,
+      "price": 87.050003,
+      "close_d1": 85.533493,
+      "change_pts": 1.51651,
+      "change_pct": 0.01773001,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 89.35305
-        },
         {
           "date": "2026-05-19",
           "close": 87.3424
@@ -770,28 +766,28 @@
           "close": 86.571365
         },
         {
+          "date": "2026-05-24",
+          "close": 85.533493
+        },
+        {
           "date": "2026-05-25",
-          "close": 86.349998
+          "close": 87.050003
         }
       ],
-      "vol_annual": 0.71700474,
-      "vol_semiannual": 0.69653049,
-      "vol_quarterly": 0.62704329,
-      "vol_monthly": 0.42091177,
-      "vol_weekly": 0.20137315
+      "vol_annual": 0.71631099,
+      "vol_semiannual": 0.69631431,
+      "vol_quarterly": 0.62358424,
+      "vol_monthly": 0.42840656,
+      "vol_weekly": 0.25698139
     },
     {
       "symbol": "UNI7083-USD",
       "name": "Uniswap",
-      "price": 3.407,
-      "close_d1": 3.4614,
-      "change_pts": -0.0544,
-      "change_pct": -0.01571617,
+      "price": 3.379,
+      "close_d1": 3.384292,
+      "change_pts": -0.005292,
+      "change_pct": -0.00156368,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 3.539251
-        },
         {
           "date": "2026-05-19",
           "close": 3.449967
@@ -813,28 +809,28 @@
           "close": 3.4614
         },
         {
+          "date": "2026-05-24",
+          "close": 3.384292
+        },
+        {
           "date": "2026-05-25",
-          "close": 3.407
+          "close": 3.379
         }
       ],
-      "vol_annual": 0.8407848,
-      "vol_semiannual": 0.66147893,
-      "vol_quarterly": 0.53049046,
-      "vol_monthly": 0.55160665,
-      "vol_weekly": 0.61740895
+      "vol_annual": 0.8398191,
+      "vol_semiannual": 0.66152813,
+      "vol_quarterly": 0.527264,
+      "vol_monthly": 0.55401915,
+      "vol_weekly": 0.45242637
     },
     {
       "symbol": "MKR-USD",
       "name": "Maker",
-      "price": 1706.907227,
-      "close_d1": 1682.078735,
-      "change_pts": 24.828491,
-      "change_pct": 0.0147606,
+      "price": 1707.985474,
+      "close_d1": 1686.924927,
+      "change_pts": 21.060547,
+      "change_pct": 0.01248458,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 1697.902832
-        },
         {
           "date": "2026-05-19",
           "close": 1732.96106
@@ -856,28 +852,28 @@
           "close": 1682.078735
         },
         {
+          "date": "2026-05-24",
+          "close": 1686.924927
+        },
+        {
           "date": "2026-05-25",
-          "close": 1706.907227
+          "close": 1707.985474
         }
       ],
-      "vol_annual": 0.72559009,
-      "vol_semiannual": 0.54656697,
-      "vol_quarterly": 0.45792806,
-      "vol_monthly": 0.28142763,
-      "vol_weekly": 0.1746087
+      "vol_annual": 0.72465487,
+      "vol_semiannual": 0.54642273,
+      "vol_quarterly": 0.45291078,
+      "vol_monthly": 0.25024616,
+      "vol_weekly": 0.12734715
     },
     {
       "symbol": "LDO-USD",
       "name": "Lido",
       "price": 0.347,
-      "close_d1": 0.350264,
-      "change_pts": -0.003264,
-      "change_pct": -0.00931871,
+      "close_d1": 0.341635,
+      "change_pts": 0.005365,
+      "change_pct": 0.01570394,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.354812
-        },
         {
           "date": "2026-05-19",
           "close": 0.351256
@@ -899,28 +895,28 @@
           "close": 0.350264
         },
         {
+          "date": "2026-05-24",
+          "close": 0.341635
+        },
+        {
           "date": "2026-05-25",
           "close": 0.347
         }
       ],
-      "vol_annual": 0.8738635,
-      "vol_semiannual": 0.77500204,
-      "vol_quarterly": 0.78680106,
-      "vol_monthly": 0.47717282,
-      "vol_weekly": 0.46999048
+      "vol_annual": 0.87304811,
+      "vol_semiannual": 0.77433055,
+      "vol_quarterly": 0.78545463,
+      "vol_monthly": 0.4815835,
+      "vol_weekly": 0.48489664
     },
     {
       "symbol": "PENDLE-USD",
       "name": "Pendle",
-      "price": 1.86,
-      "close_d1": 1.889145,
-      "change_pts": -0.029145,
-      "change_pct": -0.01542762,
+      "price": 1.884,
+      "close_d1": 1.820714,
+      "change_pts": 0.063286,
+      "change_pct": 0.03475886,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 1.837703
-        },
         {
           "date": "2026-05-19",
           "close": 1.721106
@@ -942,28 +938,28 @@
           "close": 1.889145
         },
         {
+          "date": "2026-05-24",
+          "close": 1.820714
+        },
+        {
           "date": "2026-05-25",
-          "close": 1.86
+          "close": 1.884
         }
       ],
-      "vol_annual": 0.83276648,
-      "vol_semiannual": 0.852097,
-      "vol_quarterly": 0.87763579,
-      "vol_monthly": 0.98258217,
-      "vol_weekly": 0.67011555
+      "vol_annual": 0.83260389,
+      "vol_semiannual": 0.85459896,
+      "vol_quarterly": 0.87569854,
+      "vol_monthly": 0.79205516,
+      "vol_weekly": 0.603756
     },
     {
       "symbol": "ONDO-USD",
       "name": "Ondo",
-      "price": 0.4403,
-      "close_d1": 0.426269,
-      "change_pts": 0.014031,
-      "change_pct": 0.03291582,
+      "price": 0.43087,
+      "close_d1": 0.439285,
+      "change_pts": -0.008415,
+      "change_pct": -0.01915616,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.385035
-        },
         {
           "date": "2026-05-19",
           "close": 0.368938
@@ -985,28 +981,28 @@
           "close": 0.426269
         },
         {
+          "date": "2026-05-24",
+          "close": 0.439285
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.4403
+          "close": 0.43087
         }
       ],
-      "vol_annual": 0.73433181,
-      "vol_semiannual": 0.8024699,
-      "vol_quarterly": 0.82403892,
-      "vol_monthly": 1.28490957,
-      "vol_weekly": 1.134509
+      "vol_annual": 0.73347772,
+      "vol_semiannual": 0.80220482,
+      "vol_quarterly": 0.82412917,
+      "vol_monthly": 1.2610466,
+      "vol_weekly": 1.08632605
     },
     {
       "symbol": "CFG-USD",
       "name": "Centrifuge",
       "price": 0.3026,
-      "close_d1": 0.28363,
-      "change_pts": 0.01897,
-      "change_pct": 0.06688285,
+      "close_d1": 0.287119,
+      "change_pts": 0.015481,
+      "change_pct": 0.05391839,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.292859
-        },
         {
           "date": "2026-05-19",
           "close": 0.270998
@@ -1028,28 +1024,28 @@
           "close": 0.28363
         },
         {
+          "date": "2026-05-24",
+          "close": 0.287119
+        },
+        {
           "date": "2026-05-25",
           "close": 0.3026
         }
       ],
-      "vol_annual": 1.19737543,
-      "vol_semiannual": 1.48363513,
-      "vol_quarterly": 1.02669658,
-      "vol_monthly": 1.12225702,
-      "vol_weekly": 1.49992145
+      "vol_annual": 1.19553129,
+      "vol_semiannual": 1.4821619,
+      "vol_quarterly": 1.02359146,
+      "vol_monthly": 1.11393102,
+      "vol_weekly": 1.19252694
     },
     {
       "symbol": "OM-USD",
       "name": "Mantra",
-      "price": 0.009322,
-      "close_d1": 0.009281,
-      "change_pts": 4.1e-05,
-      "change_pct": 0.00438838,
+      "price": 0.009364,
+      "close_d1": 0.009199,
+      "change_pts": 0.000165,
+      "change_pct": 0.01795664,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.009291
-        },
         {
           "date": "2026-05-19",
           "close": 0.008913
@@ -1071,28 +1067,28 @@
           "close": 0.009281
         },
         {
+          "date": "2026-05-24",
+          "close": 0.009199
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.009322
+          "close": 0.009364
         }
       ],
-      "vol_annual": 1.38558897,
-      "vol_semiannual": 1.98837222,
-      "vol_quarterly": 0.55195297,
-      "vol_monthly": 0.63667957,
-      "vol_weekly": 0.81674327
+      "vol_annual": 1.3839773,
+      "vol_semiannual": 1.98836111,
+      "vol_quarterly": 0.55030877,
+      "vol_monthly": 0.63817089,
+      "vol_weekly": 0.70326016
     },
     {
       "symbol": "ATOM-USD",
       "name": "Cosmos",
-      "price": 2.148,
-      "close_d1": 2.106691,
-      "change_pts": 0.041309,
-      "change_pct": 0.01960853,
+      "price": 2.137,
+      "close_d1": 2.048562,
+      "change_pts": 0.088438,
+      "change_pct": 0.04317079,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 2.07235
-        },
         {
           "date": "2026-05-19",
           "close": 2.040782
@@ -1114,28 +1110,28 @@
           "close": 2.106691
         },
         {
+          "date": "2026-05-24",
+          "close": 2.048562
+        },
+        {
           "date": "2026-05-25",
-          "close": 2.148
+          "close": 2.137
         }
       ],
-      "vol_annual": 0.60238451,
-      "vol_semiannual": 0.46878612,
-      "vol_quarterly": 0.35704619,
-      "vol_monthly": 0.42059748,
-      "vol_weekly": 0.33754309
+      "vol_annual": 0.60277239,
+      "vol_semiannual": 0.47314999,
+      "vol_quarterly": 0.36932476,
+      "vol_monthly": 0.4536314,
+      "vol_weekly": 0.42316228
     },
     {
       "symbol": "FIL-USD",
       "name": "Filecoin",
-      "price": 0.967,
-      "close_d1": 0.981177,
-      "change_pts": -0.014177,
-      "change_pct": -0.01444894,
+      "price": 0.978,
+      "close_d1": 0.955468,
+      "change_pts": 0.022532,
+      "change_pct": 0.02358215,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.958645
-        },
         {
           "date": "2026-05-19",
           "close": 0.937084
@@ -1157,28 +1153,28 @@
           "close": 0.981177
         },
         {
+          "date": "2026-05-24",
+          "close": 0.955468
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.967
+          "close": 0.978
         }
       ],
-      "vol_annual": 0.89149307,
-      "vol_semiannual": 0.73758737,
-      "vol_quarterly": 0.67346634,
-      "vol_monthly": 0.90291854,
-      "vol_weekly": 0.55766245
+      "vol_annual": 0.89076295,
+      "vol_semiannual": 0.73639784,
+      "vol_quarterly": 0.65476538,
+      "vol_monthly": 0.90924806,
+      "vol_weekly": 0.5638664
     },
     {
       "symbol": "AR-USD",
       "name": "Arweave",
-      "price": 2.090985,
-      "close_d1": 2.104434,
-      "change_pts": -0.013449,
-      "change_pct": -0.00639077,
+      "price": 2.115841,
+      "close_d1": 2.054702,
+      "change_pts": 0.061139,
+      "change_pct": 0.0297557,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 2.115926
-        },
         {
           "date": "2026-05-19",
           "close": 2.090389
@@ -1200,28 +1196,28 @@
           "close": 2.104434
         },
         {
+          "date": "2026-05-24",
+          "close": 2.054702
+        },
+        {
           "date": "2026-05-25",
-          "close": 2.090985
+          "close": 2.115841
         }
       ],
-      "vol_annual": 0.95332579,
-      "vol_semiannual": 0.81023249,
-      "vol_quarterly": 0.85739752,
-      "vol_monthly": 1.02734848,
-      "vol_weekly": 0.66564977
+      "vol_annual": 0.95261107,
+      "vol_semiannual": 0.81209543,
+      "vol_quarterly": 0.81115683,
+      "vol_monthly": 1.03237172,
+      "vol_weekly": 0.64675889
     },
     {
       "symbol": "RENDER-USD",
       "name": "Render (RENDER)",
-      "price": 2.008,
-      "close_d1": 1.938991,
-      "change_pts": 0.069009,
-      "change_pct": 0.03559013,
+      "price": 2.082,
+      "close_d1": 2.019347,
+      "change_pts": 0.062653,
+      "change_pct": 0.0310264,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 1.816763
-        },
         {
           "date": "2026-05-19",
           "close": 1.818849
@@ -1243,28 +1239,28 @@
           "close": 1.938991
         },
         {
+          "date": "2026-05-24",
+          "close": 2.019347
+        },
+        {
           "date": "2026-05-25",
-          "close": 2.008
+          "close": 2.082
         }
       ],
-      "vol_annual": 0.82396503,
-      "vol_semiannual": 0.70408323,
-      "vol_quarterly": 0.52499935,
-      "vol_monthly": 0.46741773,
-      "vol_weekly": 0.62926384
+      "vol_annual": 0.82350676,
+      "vol_semiannual": 0.70603888,
+      "vol_quarterly": 0.52205052,
+      "vol_monthly": 0.4796342,
+      "vol_weekly": 0.61083158
     },
     {
       "symbol": "FET-USD",
       "name": "Fetch.ai",
-      "price": 0.2134,
-      "close_d1": 0.207811,
-      "change_pts": 0.005589,
-      "change_pct": 0.02689467,
+      "price": 0.2133,
+      "close_d1": 0.208277,
+      "change_pts": 0.005023,
+      "change_pct": 0.02411693,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.193408
-        },
         {
           "date": "2026-05-19",
           "close": 0.189058
@@ -1286,28 +1282,28 @@
           "close": 0.207811
         },
         {
+          "date": "2026-05-24",
+          "close": 0.208277
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.2135
+          "close": 0.2128
         }
       ],
-      "vol_annual": 0.91393337,
-      "vol_semiannual": 0.77555703,
-      "vol_quarterly": 0.62323016,
-      "vol_monthly": 0.55512474,
-      "vol_weekly": 0.25865543
+      "vol_annual": 0.91268973,
+      "vol_semiannual": 0.77483877,
+      "vol_quarterly": 0.58740935,
+      "vol_monthly": 0.55072066,
+      "vol_weekly": 0.29619739
     },
     {
       "symbol": "TAO22974-USD",
       "name": "Bittensor",
-      "price": 277.160004,
-      "close_d1": 279.472412,
-      "change_pts": -2.312408,
-      "change_pct": -0.00827419,
+      "price": 279.450012,
+      "close_d1": 275.013062,
+      "change_pts": 4.436951,
+      "change_pct": 0.0161336,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 260.884094
-        },
         {
           "date": "2026-05-19",
           "close": 257.004578
@@ -1329,28 +1325,28 @@
           "close": 279.472412
         },
         {
+          "date": "2026-05-24",
+          "close": 275.013062
+        },
+        {
           "date": "2026-05-25",
-          "close": 277.160004
+          "close": 279.450012
         }
       ],
-      "vol_annual": 0.80297296,
-      "vol_semiannual": 0.80445566,
-      "vol_quarterly": 0.77492131,
-      "vol_monthly": 0.62296939,
-      "vol_weekly": 0.73207758
+      "vol_annual": 0.8021416,
+      "vol_semiannual": 0.80344365,
+      "vol_quarterly": 0.7398808,
+      "vol_monthly": 0.62571719,
+      "vol_weekly": 0.64970475
     },
     {
       "symbol": "DOGE-USD",
       "name": "Dogecoin",
-      "price": 0.10269,
-      "close_d1": 0.102982,
-      "change_pts": -0.000292,
-      "change_pct": -0.00283548,
+      "price": 0.10285,
+      "close_d1": 0.102194,
+      "change_pts": 0.000656,
+      "change_pct": 0.00641918,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 0.104651
-        },
         {
           "date": "2026-05-19",
           "close": 0.102923
@@ -1372,15 +1368,19 @@
           "close": 0.102982
         },
         {
+          "date": "2026-05-24",
+          "close": 0.102194
+        },
+        {
           "date": "2026-05-25",
-          "close": 0.10269
+          "close": 0.10285
         }
       ],
-      "vol_annual": 0.69447509,
-      "vol_semiannual": 0.57910749,
-      "vol_quarterly": 0.36041115,
-      "vol_monthly": 0.38455619,
-      "vol_weekly": 0.29770737
+      "vol_annual": 0.69364614,
+      "vol_semiannual": 0.57871998,
+      "vol_quarterly": 0.35055169,
+      "vol_monthly": 0.37957963,
+      "vol_weekly": 0.30225545
     },
     {
       "symbol": "SHIB-USD",
@@ -1390,10 +1390,6 @@
       "change_pts": -0.0,
       "change_pct": -0.06000005,
       "daily_7d": [
-        {
-          "date": "2026-05-18",
-          "close": 6e-06
-        },
         {
           "date": "2026-05-19",
           "close": 6e-06
@@ -1415,11 +1411,15 @@
           "close": 6e-06
         },
         {
+          "date": "2026-05-24",
+          "close": 6e-06
+        },
+        {
           "date": "2026-05-25",
           "close": 6e-06
         }
       ],
-      "vol_annual": 0.79785201,
+      "vol_annual": 0.79685048,
       "vol_semiannual": 0.74114234,
       "vol_quarterly": 0.45659589,
       "vol_monthly": 0.80296699,
@@ -1434,10 +1434,6 @@
       "change_pct": -0.09749999,
       "daily_7d": [
         {
-          "date": "2026-05-18",
-          "close": 4e-06
-        },
-        {
           "date": "2026-05-19",
           "close": 4e-06
         },
@@ -1458,11 +1454,15 @@
           "close": 4e-06
         },
         {
+          "date": "2026-05-24",
+          "close": 4e-06
+        },
+        {
           "date": "2026-05-25",
           "close": 4e-06
         }
       ],
-      "vol_annual": 1.35235086,
+      "vol_annual": 1.35065179,
       "vol_semiannual": 1.62988104,
       "vol_quarterly": 1.31243316,
       "vol_monthly": 0.35537034,
